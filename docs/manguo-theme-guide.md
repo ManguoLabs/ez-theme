@@ -22,5 +22,8 @@ EZ-Theme 是面向 XBoard / V2Board 的 Vue 3 用户前端主题。选择 XBoard
 
 ### 这是 Manguo Labs 原创主题吗？
 
-不是。本仓库是 PangHu-Code/EZ-Theme 的原生 Fork，原作者、联系信息、赞助地址和 MIT 声明保留在 README 中。
+不是。本仓库是 PangHu-Code/EZ-Theme 的原生 Fork，README 明确保留原作者身份与 MIT 许可说明；Manguo Labs 不声称是原作者。
 
+## 产品与技术咨询
+
+Manguo Labs — 产品 / 咨询 / 技术服务：[https://t.me/ManguoShop_bot](https://t.me/ManguoShop_bot)

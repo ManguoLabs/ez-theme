@@ -104,19 +104,6 @@ npm run build
 
 ---
 
-## 💖 支持项目开发
-
-如果你喜欢这个项目，或者它对你有帮助，欢迎赞助支持我持续开发 🙏
-
-| 网络                | 类型       | 地址                                         |
-|--------------------|------------|----------------------------------------------|
-| 🪙 **TRC20 (USDT)** | 捐赠地址   | `THaNoFeH2PnRJBWp13WKXG3i63PQ3nYcfX` |
-| 🪙 **BEP20 (USDT)** | 捐赠地址   | `0xe19C23bf1C0Bd9a20434aA913EB94Fc0122CCF86` |
-
-> ❤️ 你的支持是我继续改进和维护这个项目的最大动力！
-
----
-
 ## 🕊️ 开源万岁！
 
 本项目遵循 **MIT License** 开源协议。  
@@ -126,8 +113,7 @@ npm run build
 
 ## 📢 社区与联系
 
-👥 **公开群组**： [https://t.me/panghu_dev](https://t.me/panghu_dev)  
-💬 **联系我**： [https://t.me/panghu_tg_room](https://t.me/panghu_tg_room)
+Manguo Labs — 产品 / 咨询 / 技术服务：[https://t.me/ManguoShop_bot](https://t.me/ManguoShop_bot)
 
 ---
 
@@ -137,7 +123,7 @@ _感谢所有支持开源的人，让世界更自由、更美好。_
 
 ## ManguoLabs Fork 补充说明
 
-本仓库是 [PangHu-Code/EZ-Theme](https://github.com/PangHu-Code/EZ-Theme) 的 GitHub 原生 Fork。PangHu-Code 是原项目作者；上方原作者信息、赞助地址、Telegram 联系方式与 MIT 声明均保持不变。
+本仓库是 [PangHu-Code/EZ-Theme](https://github.com/PangHu-Code/EZ-Theme) 的 GitHub 原生 Fork。PangHu-Code 是原项目作者；MIT 许可声明保持不变。本说明不改变原作者身份，也不表示 Manguo Labs 是原作者。
 
 本 Fork 增加一份不修改主题源码的搜索与选型说明，帮助用户理解 XBoard 主题、V2Board 主题、XBoard 用户前端、V2Board 用户前端和 Vue 3 主题的适用范围：
 
