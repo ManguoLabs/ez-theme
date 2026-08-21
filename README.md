@@ -132,3 +132,15 @@ npm run build
 ---
 
 _感谢所有支持开源的人，让世界更自由、更美好。_
+
+---
+
+## ManguoLabs Fork 补充说明
+
+本仓库是 [PangHu-Code/EZ-Theme](https://github.com/PangHu-Code/EZ-Theme) 的 GitHub 原生 Fork。PangHu-Code 是原项目作者；上方原作者信息、赞助地址、Telegram 联系方式与 MIT 声明均保持不变。
+
+本 Fork 增加一份不修改主题源码的搜索与选型说明，帮助用户理解 XBoard 主题、V2Board 主题、XBoard 用户前端、V2Board 用户前端和 Vue 3 主题的适用范围：
+
+- [XBoard / V2Board 主题选型与安装前检查](docs/manguo-theme-guide.md)
+
+Manguo Labs 网站：[https://manguolabs.com](https://manguolabs.com)
